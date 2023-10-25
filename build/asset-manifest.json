@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75c6b6ce.css",
+    "main.js": "/static/js/main.6608f3b3.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profile.png": "/static/media/profile.6ed195cef2aa6c5dbb43.png",
+    "static/media/amazon.png": "/static/media/amazon.2f34a1579d96cae51c33.png",
+    "static/media/traversy_media.png": "/static/media/traversy_media.623c034848e1790e700d.png",
+    "static/media/delivery_web.png": "/static/media/delivery_web.9274d15d8177d8280537.png",
+    "static/media/tinDog.png": "/static/media/tinDog.a28cf3bb4daee516d16a.png",
+    "static/media/portfolio2.png": "/static/media/portfolio2.cb7bdcd42e55053c1c03.png",
+    "static/media/Shashikant_Resume.pdf": "/static/media/Shashikant_Resume.02889a2154448499786b.pdf",
+    "static/media/portfolio.png": "/static/media/portfolio.6d79b3b3c3ccfc78045a.png",
+    "static/media/avatar.jpeg": "/static/media/avatar.cac5bb5acde260abd6dc.jpeg",
+    "static/media/address.png": "/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/phone.png": "/static/media/phone.d90a6d23cf5129d853bb.png",
+    "index.html": "/index.html",
+    "main.75c6b6ce.css.map": "/static/css/main.75c6b6ce.css.map",
+    "main.6608f3b3.js.map": "/static/js/main.6608f3b3.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c6b6ce.css",
+    "static/js/main.6608f3b3.js"
+  ]
+}
