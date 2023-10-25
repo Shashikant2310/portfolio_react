@@ -1,0 +1,14 @@
+.a-card.bg {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: #59b256;
+  }
+  
+  .a-card {
+    width: 60%;
+    height: 70vh;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+  }
