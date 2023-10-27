@@ -24,12 +24,12 @@ export const products = [
   {
     id: 4,
     img: amazon,
-    link: "https://amazone-clone-mu.vercel.app/",
+    link: "https://amazone-clone-git-main-shashikants-projects.vercel.app/",
   },
   {
     id: 5,
     img: webStore,
-    link: "https://web-store-react-gamma.vercel.app/",
+    link: "https://web-store-react-git-main-shashikants-projects.vercel.app/",
   },
   {
     id: 6,
