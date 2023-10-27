@@ -2,7 +2,7 @@ import portfolio from "./img/portfolio.png";
 import delivery_web from "./img/delivery_web.png";
 import traversy_media from "./img/traversy_media.png";
 import amazon from "./img/amazon.png";
-import tinDog from "./img/tinDog.png";
+import webStore from "./img/web_store.png";
 import portfolio2 from "./img/portfolio2.png";
 
 export const products = [
@@ -28,8 +28,8 @@ export const products = [
   },
   {
     id: 5,
-    img: tinDog,
-    link: "https://github.com/Shashikant2310?tab=repositories",
+    img: webStore,
+    link: "https://web-store-react-gamma.vercel.app/",
   },
   {
     id: 6,
