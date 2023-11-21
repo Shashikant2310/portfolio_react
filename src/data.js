@@ -1,5 +1,5 @@
 import portfolio from "./img/portfolio.png";
-import delivery_web from "./img/delivery_web.png";
+import datamint from "./img/datamint.png";
 import traversy_media from "./img/traversy_media.png";
 import amazon from "./img/amazon.png";
 import webStore from "./img/web_store.png";
@@ -13,8 +13,8 @@ export const products = [
   },
   {
     id: 2,
-    img: delivery_web,
-    link: "https://shashikant2310.github.io/delivery_web/",
+    img: datamint,
+    link: "https://shashikant2310.github.io/datamint/",
   },
   {
     id: 3,
